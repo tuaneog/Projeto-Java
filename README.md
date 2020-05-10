@@ -1,2 +1,2 @@
 # Projeto Java
- programas em java
+ Repositório para guardar meus programas em Java.
